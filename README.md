@@ -146,3 +146,9 @@ Para exponer esta aplicación a Internet en un servidor propio sin exponer la re
 1. **Exposición del Servicio:** El contenedor Docker corre aislado exponiendo únicamente el puerto `7860`.
 2. **Túnel Cifrado:** Se configura un túnel seguro (Cloudflare Tunnel / Tailscale Funnel) apuntando al puerto `7860`.
 3. **Publicación Cifrada:** El tráfico externo ingresa vía HTTPS cifrado desde el dominio/subdominio público configurado hacia el servicio local.
+
+---
+
+## 📜 Licencia
+
+Este proyecto está bajo la Licencia **MIT**. Consulta el archivo [`LICENSE`](LICENSE) para obtener más detalles sobre el uso, modificación y distribución del código.

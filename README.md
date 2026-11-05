@@ -46,6 +46,41 @@ Aplicación web interactiva desarrollada con **Streamlit** y **DuckDB** para la 
 ├── requirements-extra.txt   # Dependencias secundarias de visualización (Plotly)
 └── README.md                # Documentación del proyecto
 ```
+---
+
+## 🌐 Demo en Vivo
+
+Puedes probar la aplicación desplegada en el servidor propio a través de Tailscale Funnel:
+
+🔗 **[Acceder a la Aplicación Web en Vivo](https://0day.tail4eac69.ts.net/)**
+---
+## 📸 Capturas de Pantalla e Interfaz
+
+<div align="center">
+
+### Vista Principal (Inicio)
+*Presentación del problema, métricas clave del modelo y arquitectura.*
+<img src="inicio.png" alt="Vista Inicio" width="800"/>
+
+---
+
+### Calculadora Interactiva (Predicción)
+*Ajuste de factores (temperatura, humedad, personas) para estimación del consumo en tiempo real.*
+<img src="prediccion.png" alt="Calculadora de consumo" width="800"/>
+
+---
+
+### Análisis y Correlaciones (Gráficas)
+*Matriz de correlación y visualización interactiva de variables.*
+<img src="graficas.png" alt="Gráficas de correlación" width="800"/>
+
+---
+
+### Acerca del Proyecto
+*Detalles sobre herramientas utilizadas (DuckDB, Tailscale Funnel, Debian, Docker).*
+<img src="acerca_de.png" alt="Acerca del proyecto" width="800"/>
+
+</div>
 
 ---
 

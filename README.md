@@ -14,14 +14,6 @@ Aplicación web interactiva desarrollada con **Streamlit** y **DuckDB** para la 
 
 ---
 
-## 👤 Datos del Estudiante y Contexto Académico
-
-- **Alumno:** José de Jesús Pablo Jiménez
-- **Número de Control:** 23680075
-- **Materia:** Análisis y Exploración de Datos (INC-2505)
-- **Institución:** TecNM Campus Cuautla (Ingeniería en Sistemas Computacionales)
-- **Despliegue:** Self-hosted en servidor Linux propio mediante Docker y túnel seguro.
-
 ---
 
 ## 🛠️ Stack Tecnológico
